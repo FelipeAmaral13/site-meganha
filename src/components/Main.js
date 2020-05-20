@@ -33,24 +33,9 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
-          </p>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            Felipe Souza Amaral. Graduado em Engenharia Mecatrônica pelo Instituto Federal Sudeste
+            de Minas - Campus Juiz de Fora. Mestrando em Ciência da Computação pelo Programa de Pós-Graduação
+            em Ciência da Computação na Universidade Federal de Juiz de Fora. <a href="#work">Aberto a propostas!</a>.
           </p>
           {close}
         </article>
@@ -67,19 +52,10 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
-          </p>
-          <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            Palestras.
+            Cursos.
+            Projetos.
+            Contato pelo Email: felipengmec@gmail.com
           </p>
           {close}
         </article>
@@ -96,13 +72,13 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+          Faço parte da equipe da Expert Desenvolvimento e Tecnologia desenvolvendo soluções para IoT (embarcados, segurança e mobilidade), data science (análise exploratória, séries temporais, identificação de perfis de consumidores), Inteligência Artificial e Visão Computacional. 
+          Estou finalizando um mestrado na UFJF, no curso de ciência da computação com foco na área de inteligência computacional. Fui estagiário de docência no Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais - Campus Juiz de Fora, ministrando a matéria Informática Básica para o curso técnico e em paralelo  lecionei Inteligência Computacional para o curso de Engenharia Mecatrônica. Ainda no campo acadêmico,  leciono de maneira voluntária,  programação e robótica para crianças e adolescentes na escola Ctrl+Play.
+          esenvolvi cursos na plataforma Udemy onde leciono aulas sobre Visão computacional com base nas tecnologias Matlab e Python. O curso conta já com 500 alunos em oito países diferentes.
+          * Treinamento Profissional (2017) - Projeto e implementação de uma plataforma flexível para desenvolvimento de aplicações baseadas em microcontroladores. 
+          * Iniciação científica (2017) -  Estudo de técnicas de reconhecimento vascular para desenvolvimento de um sistema de segurança. O trabalho tinha como foco desenvolver alguma ferramenta capaz de identificar as estruturas venosas do dorso da mão humana e classifica-las, fazendo assim um sistema biométrico de alta precisão. Construção com êxito do protótipo funcional.
+          * Grupo PET (2014 a 2016) - Equipe formada por alunos com pilares em educação, ciência e tecnologia. Nesse grupo desenvolvi minhas habilidades para falar em público e ministrar minicursos.
+          * Iniciação científica (2013 a 2014) - Projeto de circuitos digitais utilizando linguagem de descrição de hardware e implementação via kit FPGA, nessa iniciação fiz estudos a fundo sobre a linguagem de programação VHDL e implementamos em um controle de motor de passo que seria usada para uma CNC.         
           </p>
           {close}
         </article>
